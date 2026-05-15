@@ -1,5 +1,4 @@
 import sys 
-import os
 import urllib
 import yaml
 import flask
